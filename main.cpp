@@ -1,8 +1,10 @@
 #include <fstream>
 #include <iostream>
 #include <cstdlib>
+#include <ctime>
 
 int main() {
+	std::srand(std::time(nullptr));
 	int row, column;
 	std::cout << "Input size of picture (width/height):" << std::endl;
 	std::cin >> row >> column;
@@ -13,6 +15,5 @@ int main() {
 		}
 		pic_file << std::endl;
 	}
-
 	pic_file.close();
 }
