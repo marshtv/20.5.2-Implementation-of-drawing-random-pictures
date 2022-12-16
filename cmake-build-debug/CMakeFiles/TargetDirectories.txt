@@ -1,0 +1,3 @@
+F:/__C++/Skillbox/20/20.5.2 Implementation of drawing random pictures/cmake-build-debug/CMakeFiles/20_5_2_Implementation_of_drawing_random_pictures.dir
+F:/__C++/Skillbox/20/20.5.2 Implementation of drawing random pictures/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/20/20.5.2 Implementation of drawing random pictures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
